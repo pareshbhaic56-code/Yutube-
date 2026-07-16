@@ -23,3 +23,6 @@ button {
 button:hover {
     background: #d32f2f;
 }
+function startAI() {
+  alert("AI सिस्टम अभी बन रहा है। अगले स्टेप में Script Generator जोड़ेंगे।");
+}
