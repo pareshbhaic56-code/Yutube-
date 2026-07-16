@@ -26,3 +26,6 @@ button:hover {
 function startAI() {
   alert("AI सिस्टम अभी बन रहा है। अगले स्टेप में Script Generator जोड़ेंगे।");
 }
+function startAI() {
+    alert("Welcome to AI YouTube Studio! अगला स्टेप: Dashboard");
+}
