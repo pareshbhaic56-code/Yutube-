@@ -45,3 +45,6 @@ button:hover {
 
 </body>
 </html>
+function startAI() {
+    alert("Welcome to AI YouTube Studio! अगला स्टेप: Dashboard");
+}
